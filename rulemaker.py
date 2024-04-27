@@ -1,7 +1,8 @@
 import os
 import time
 
-print("[+] Welcome to the Booger factory. A rule generator for Snort")
+print("[+] Welcome to the Booger Goblin. A rule generator for Snort")
+print("The best Snort Booger \(Rule\) Flicker.")
 time.sleep(2)
 rulenumber = 1000000 # Snort wants you to place custom rules after this number.
 if os.path.exists("rules.txt"):
